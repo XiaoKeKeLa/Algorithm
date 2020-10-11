@@ -10,3 +10,5 @@
 [3.逆序对](https://github.com/XiaoKeKeLa/Algorithm/tree/main/%E7%89%9B%E5%AE%A2%E7%BD%91/%E9%80%86%E5%BA%8F%E5%AF%B9)
 
 [4.随机快排](https://github.com/XiaoKeKeLa/Algorithm/tree/main/%E7%89%9B%E5%AE%A2%E7%BD%91/%E9%9A%8F%E6%9C%BA%E5%BF%AB%E6%8E%92)
+
+[5.堆排序](https://github.com/XiaoKeKeLa/Algorithm/tree/main/%E7%89%9B%E5%AE%A2%E7%BD%91/%E5%A0%86%E6%8E%92%E5%BA%8F)
